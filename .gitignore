@@ -1,0 +1,5 @@
+.venv/
+venv/
+ride_env/
+_pycache_/
+*.pyc
